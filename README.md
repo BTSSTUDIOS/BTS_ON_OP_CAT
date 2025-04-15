@@ -1,6 +1,6 @@
 # BTS_ON_OP_CAT
 
-# Unlocking Hollywood's Decentralized Future: How Bitcoin's OP_CAT Empowers BTS Studios 🎬✨
+# Unlocking Hollywood's Decentralized Future OR How Bitcoin's OP_CAT Empowers BTS Studios 🎬✨
 
 **“The design supports a tremendous variety of possible transaction types that I designed years ago”**
 -Satoshi Nakamoto June 17, 2010, 06:46:08 PM
